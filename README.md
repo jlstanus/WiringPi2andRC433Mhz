@@ -2,7 +2,8 @@
 
 Working on RasperryPi B Raspbian 2015.02 , maybe on other Rpis versions you should modify GPIO.
 
-The python script allow to command a linux router (flashed with tomatousb, dd-wrt, ..) with ssh enabled to activade/desactivate wifi, reboot Rasperry pi, allow to reboot on other OS with berryboot
+The python script allow to command a linux router (flashed with tomatousb, dd-wrt, ..) with ssh enabled to activade/desactivate wifi, reboot Rasperry pi, allow to reboot on other OS with berryboot.
+This is commanded with 433 or 315 Mhz 4 buttons remote control.
 
 ##Installation
 
