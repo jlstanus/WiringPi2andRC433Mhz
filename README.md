@@ -7,8 +7,9 @@ This is commanded with 433 or 315 Mhz 4 buttons remote control.
 
 ##Installation
 
-1. Install pip & Wiringpi 2 http://raspi.tv/how-to-install-wiringpi2-for-python-on-the-raspberry-pi
-2. Install paramiko with pip install "pip install paramiko"
+1. Install pip "sudo apt-get install python-dev python-pip"
+2. install WiringPi2 with pip install "sudo pip install wiringpi2"
+2. Install paramiko with pip install "sudo pip install paramiko"
 
 ##Configuring
 1. Downlod or fork this code for your needs
